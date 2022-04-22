@@ -5,11 +5,11 @@ write command python run.py
 
 ADMINS:
 
-MANIPI HARSHA
-BHOOMIKA SURESH
-HARSHITHA K M
-HALASHANKAR N PATIL
-ATHULURI SAI HANUMAN
+1.MANIPI HARSHA
+2.BHOOMIKA SURESH
+3.HARSHITHA K M
+4.HALASHANKAR N PATIL
+5.ATHULURI SAI HANUMAN
 
 Functionalities:-
 Through this website, users can register and subsequently login to place orders from nearby restaurants.
