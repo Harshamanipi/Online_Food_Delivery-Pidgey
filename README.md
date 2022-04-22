@@ -3,6 +3,14 @@ PIDGEY! Food website
 How to run :- Download the zip file. Extract It. Go to current folder , open terminal and
 write command python run.py
 
+ADMINS:
+
+MANIPI HARSHA
+BHOOMIKA SURESH
+HARSHITHA K M
+HALASHANKAR N PATIL
+ATHULURI SAI HANUMAN
+
 Functionalities:-
 Through this website, users can register and subsequently login to place orders from nearby restaurants.
 Admin  can get their restaurants registered on the website.
