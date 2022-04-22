@@ -9,6 +9,7 @@ write command python run.py
 3. HARSHITHA K M<br>
 4. HALASHANKAR N PATIL<br>
 5. ATHULURI SAI HANUMAN<br>
+6. SUSHMITHA L<br>
 
 Functionalities:-
 Through this website, users can register and subsequently login to place orders from nearby restaurants.
